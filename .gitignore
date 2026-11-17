@@ -14,7 +14,3 @@
 .unlazy/locks/
 .unlazy-hook-state.json
 composer.lock
-
-# Local development: composer.dev.json adds a path repository to ../../venusian/topside
-composer.dev.json
-composer.dev.lock
